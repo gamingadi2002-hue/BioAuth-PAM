@@ -1,0 +1,18 @@
+# Binaries
+extract_feature
+verify_face
+pam_bio_auth.so
+pam_test
+check_version
+test_system
+
+# Models (Too large for git, user should download separately or use install script to fetch)
+*.dat
+*.bin
+trusted_face.bin
+
+# IDE settings
+.vscode/
+
+# System
+.DS_Store
